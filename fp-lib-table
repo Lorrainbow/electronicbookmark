@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bookmark")(type "KiCad")(uri "${KIPRJMOD}/bookmark.pretty")(options "")(descr ""))
+)
